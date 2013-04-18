@@ -1,0 +1,6 @@
+server = 'IRC_SERVER_GOES_HERE'
+port = 6667
+nick = 'NICKNAME_GOES_HERE'
+identity = 'IDENTITY_GOES_HERE'
+realname = '#REALNAME_GOES_HERE'
+channel = '#CHANNEL_NAME_GOES_HERE'
